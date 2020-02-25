@@ -8,6 +8,7 @@ Today I Learned
 
 # Book 
  - 하루 3분 네트워크 교실
+ - Node.js 교과서
 
 # Coding
  - LINE 신입 개발자 채용
