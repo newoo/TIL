@@ -9,6 +9,8 @@
   - 하루 3분 네트워크 교실 1장 읽기
 
 ## 26 Wednesday
+  - RemindFeedback
+    - Scene관련 코드 수정
   - 코로나 앱 개발
   
 ## 27 Thursday
