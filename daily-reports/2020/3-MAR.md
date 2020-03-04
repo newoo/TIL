@@ -16,5 +16,8 @@
 
 ## 03 Tuesday
   - iOS Test-Driven Development by Tutorials
+
+## 04 Wednesday
+  - 하루 3분 네트워크 교실 2장 읽기
   
 
