@@ -18,6 +18,12 @@
   - iOS Test-Driven Development by Tutorials
 
 ## 04 Wednesday
+  - iOS Test-Driven Development by Tutorials
   - 하루 3분 네트워크 교실 2장 읽기
-  
+
+## 05 Thursday
+  - AWS/Docker 클라우드 서버 구축 강의
+  - 하루 3분 네트워크 교실 2장 읽기
+  - RemindFeedback
+    - MyPage관련 기능 구현
 
