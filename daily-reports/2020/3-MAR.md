@@ -27,3 +27,7 @@
   - RemindFeedback
     - MyPage관련 기능 구현
 
+## 08 Sunday
+  - Node.js 교과서
+    - 4장 
+
