@@ -47,5 +47,9 @@
     - 카메라 기능 추가
     - 로그아웃 기능 추가
   - 프로그래머스 다리를 지나는 트럭 풀이
-    [Swift](https://github.com/newoo/daily-coding/blob/master/swift/truck-passing-bridge.swift)
+    - [Swift](https://github.com/newoo/daily-coding/blob/master/swift/truck-passing-bridge.swift)
+
+## 12 Thursday
+  - Merge Sort 발표준비
+    - [io3s](https://github.com/iO3S)
 
