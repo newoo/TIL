@@ -53,3 +53,8 @@
   - Merge Sort 발표준비
     - [io3s](https://github.com/iO3S)
 
+## 15 Sunday
+  - 리마인드 피드백
+    - 친구 기능 스토리보드 구현
+    - 친구 찾기 기능 구현
+
