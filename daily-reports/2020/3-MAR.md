@@ -73,3 +73,9 @@
     - UIView
     - UIButton
 
+## 24 Tuesday
+  - iOS 복습
+    - UITableview
+  - 리마인드 피드백
+    - 친구 찾기 및 추가 기능
+
