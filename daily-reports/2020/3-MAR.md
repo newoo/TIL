@@ -79,3 +79,10 @@
   - 리마인드 피드백
     - 친구 찾기 및 추가 기능
 
+## 25 Wednesday
+  - iOS 복습
+    - UITableView, UITableViewCell
+  - 리마인드 피드백
+    - 친구 리스트 보여주기 기능
+    - 카테고리 및 피드백 관련 UI, 기능 개선
+
