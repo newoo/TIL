@@ -34,3 +34,12 @@
 
 ## 13 Monday
   - 큐피스트 사전 과제
+  
+## 14 Tuesday ~ 15 Wendesday
+  - 큐피스트, 스마트잭 면접 준비
+  
+## 16 Thursday
+  - 큐피스트 면접
+  
+## 17 Friday
+  - 스마트 잭 면접
