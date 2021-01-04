@@ -1,6 +1,10 @@
 # FEB 2020
 
 ## 03 Sunday
+  - Solve 1 algorithm test by Java in 프로그래머스 코딩테스트 연습문제
+  - Read "Commits are snapshots, not diffs" in Github blog
+
+## 03 Sunday
   - Read left pages of 점프 투 자바
   - Read "Commits are snapshots, not diffs" in Github blog
   - Solve 2 algorithm tests by Java in 프로그래머스 코딩테스트 연습문제
