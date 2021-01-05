@@ -1,6 +1,6 @@
-# FEB 2020
+# JAN 2021
 
-## 03 Sunday
+## 04 Monday
   - Solve 1 algorithm test by Java in 프로그래머스 코딩테스트 연습문제
   - Read "Commits are snapshots, not diffs" in Github blog
 
