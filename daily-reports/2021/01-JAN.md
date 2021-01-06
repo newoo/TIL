@@ -1,5 +1,8 @@
 # JAN 2021
 
+## 06 Wednesday
+  - Participate in study of "Commits are snapshots, not diffs"
+
 ## 05 Tuesday
   - Solve 1 algorithm test by Java in 프로그래머스 코딩테스트 연습문제
   [Link](https://github.com/newoo/daily-coding#%EB%91%90-%EA%B0%9C-%EB%BD%91%EC%95%84%EC%84%9C-%EB%8D%94%ED%95%98%EA%B8%B0)
