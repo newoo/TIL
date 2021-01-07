@@ -1,5 +1,9 @@
 # JAN 2021
 
+## 07 Thursday
+  - Read book "객체지향의 사실과 오해"
+  - Study coroutine by internet searching
+
 ## 06 Wednesday
   - Participate in study of "Commits are snapshots, not diffs"
 
