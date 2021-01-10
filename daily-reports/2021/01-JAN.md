@@ -1,5 +1,11 @@
 # JAN 2021
 
+## 10 Sunday
+  - Participate in study of "자바 스터디"
+
+## 08 Friday
+  - Solve 1 algorithm test by Java in 프로그래머스 코딩테스트 연습문제
+
 ## 07 Thursday
   - Read book "객체지향의 사실과 오해"
   - Study coroutine by internet searching
