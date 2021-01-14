@@ -1,5 +1,14 @@
 # JAN 2021
 
+## 14 Thursday
+  - Participate in SwiftUI group study
+
+## 13 Wednesday
+  - Participate in group study of "객체지향의 사실과 오해 1장 ~ 4장"
+
+## 12 Tuesday
+  - Do programming [todolist-swift-mvvm](https://github.com/newoo/todolist-swift-mvvm)
+
 ## 10 Sunday
   - Participate in study of "자바 스터디"
 
