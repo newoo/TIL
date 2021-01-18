@@ -1,10 +1,10 @@
 # JAN 2021
 
-## 04 Monday
+## 18 Monday
   - Read book "객체지향의 사실과 오해"
   - Take a lecture of Spring in Codesoom
 
-## 03 Sunday
+## 17 Sunday
   - Participate in Java group study
   - Do programming [java-animal-kingdom](https://github.com/newoo/java-animal-kingdom)
 
