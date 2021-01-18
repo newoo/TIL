@@ -1,5 +1,9 @@
 # JAN 2021
 
+## 03 Sunday
+  - Participate in Java group study
+  - Do programming [java-animal-kingdom](https://github.com/newoo/java-animal-kingdom)
+
 ## 14 Thursday
   - Participate in SwiftUI group study
 
