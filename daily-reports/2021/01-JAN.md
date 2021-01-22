@@ -1,5 +1,16 @@
 # JAN 2021
 
+## 21 Thursday
+  - Do programming [spring-week1-assignment-1](https://github.com/newoo/spring-week1-assignment-1)
+
+## 20 Wednesday
+  - Read book "객체지향의 사실과 오해"
+  - Participate in study of "객체지향의 사실과 오해 5장 ~"
+
+## 19 Tuesday
+  - Read book "객체지향의 사실과 오해"
+  - Do programming [spring-week1-assignment-1](https://github.com/newoo/spring-week1-assignment-1)
+
 ## 18 Monday
   - Read book "객체지향의 사실과 오해"
   - Take a lecture of Spring in Codesoom
