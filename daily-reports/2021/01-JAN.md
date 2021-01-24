@@ -1,6 +1,6 @@
 # JAN 2021
 
-## 23 Sunday
+## 24 Sunday
   - Do programming [spring-week1-assignment-1](https://github.com/newoo/spring-week1-assignment-1)
   
 ## 23 Saturday
