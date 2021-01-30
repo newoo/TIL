@@ -1,13 +1,16 @@
 # JAN 2021
 
+## 29 Friday
+  - Do programming [spring-week2-assignment-1](https://github.com/newoo/spring-week2-assignment-1)
+
 ## 28 Thursday
   - Do programming [spring-week2-assignment-1](https://github.com/newoo/spring-week2-assignment-1)
   - Participate in iO3S group study
 
 ## 27 Wednesday
-  - Read books "루비로 배우는 객체지향 디자인" and "Modern in java"
+  - Read books "루비로 배우는 객체지향 디자인" and "Modern java in action"
   - Do programming [spring-week2-assignment-1](https://github.com/newoo/spring-week2-assignment-1)
-  - Participate in study of "객체지향의 사실과 오해 5장 ~"
+  - Participate in study of "루비로 배우는 객체지향 디자인 1장 ~ 5장"
 
 ## 26 Tuesday
   - Read book "루비로 배우는 객체지향 디자인"
