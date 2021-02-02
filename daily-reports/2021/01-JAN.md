@@ -1,5 +1,14 @@
 # JAN 2021
 
+## 31 Sunday
+  - Do programming [spring-week2-assignment-1](https://github.com/newoo/spring-week2-assignment-1)
+  - Read books "루비로 배우는 객체지향 디자인"
+  - Do iOS/Swift programming [richary(iOS)](richary-ios)
+  
+## 30 Saturday
+  - Do programming [spring-week2-assignment-1](https://github.com/newoo/spring-week2-assignment-1)
+  - Read book "Modern java in action"
+
 ## 29 Friday
   - Do programming [spring-week2-assignment-1](https://github.com/newoo/spring-week2-assignment-1)
 
