@@ -45,3 +45,10 @@ extension UIView {
   }
 }
 ```
+
+## 참고
+https://www.robkerr.com/capture-uiview-as-jpeg
+https://www.hackingwithswift.com/example-code/media/how-to-render-a-uiview-to-a-uiimage
+https://stackoverflow.com/questions/30696307/how-to-convert-a-uiview-to-an-image
+https://stackoverflow.com/questions/4334233/how-to-capture-uiview-to-uiimage-without-loss-of-quality-on-retina-display
+
